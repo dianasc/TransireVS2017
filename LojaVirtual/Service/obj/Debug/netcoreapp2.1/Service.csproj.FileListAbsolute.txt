@@ -1,0 +1,14 @@
+C:\Users\Diana\Transire\LojaVirtual\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\Diana\Transire\LojaVirtual\Service\bin\Debug\netcoreapp2.1\Service.runtimeconfig.json
+C:\Users\Diana\Transire\LojaVirtual\Service\bin\Debug\netcoreapp2.1\Service.runtimeconfig.dev.json
+C:\Users\Diana\Transire\LojaVirtual\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\Diana\Transire\LojaVirtual\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\Diana\Transire\LojaVirtual\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Transire\LojaVirtual\Service\obj\Debug\netcoreapp2.1\Service.RazorAssemblyInfo.cache
+C:\Users\Diana\Transire\LojaVirtual\Service\obj\Debug\netcoreapp2.1\Service.RazorAssemblyInfo.cs
+C:\Users\Diana\Transire\LojaVirtual\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\Diana\Transire\LojaVirtual\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\Diana\Transire\LojaVirtual\Service\obj\Debug\netcoreapp2.1\Service.RazorTargetAssemblyInfo.cache
+C:\Users\Diana\Transire\LojaVirtual\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\Diana\Transire\LojaVirtual\Service\obj\Debug\netcoreapp2.1\Service.pdb
+C:\Users\Diana\Transire\LojaVirtual\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
