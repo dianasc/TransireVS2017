@@ -6,4 +6,4 @@ Solução 1 - Service: Desenvolvida uma webapi com tecnologia REST para que pude
 
 Solução 2 - WebApp: Desenvolvida uma aplicação MVC. Esta aplicação conterá as principais validações e interações com o usuário.
 
-Tecnologias: Para o desenvolvimento destas soluções foi utilizado o Visual Studio Community 2015, banco de dados SqlServer2014 e SGBD SqlServer Management Studio 2014.
+Tecnologias: Para o desenvolvimento destas soluções foi utilizado o Visual Studio Community 2017, NET.CORE 2.1, banco de dados SqlServer2014 e SGBD SqlServer Management Studio 2014.
